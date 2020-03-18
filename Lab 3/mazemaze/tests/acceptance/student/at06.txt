@@ -1,0 +1,18 @@
+--ask for helps solving
+new_game(easy)
+solve
+move(E)
+move(E)
+move(E)
+move(E)
+move(E)
+move(E)
+move(S)
+move(S)
+move(S)
+move(S)
+move(W)
+move(S)
+move(S)
+move(E)
+

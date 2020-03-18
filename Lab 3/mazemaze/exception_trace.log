@@ -1,0 +1,414 @@
+
+maze: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         item @3                attached active as a:        
+<00000000066EB638>                         Assertion violated.           Fail
+-------------------------------------------------------------------------------
+LINKED_LIST         item @3                                             
+<00000000066EB638>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+LINKED_LIST         i_th @5                                             
+<00000000066EB638>  (From CHAIN)           Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAZE_DRAWER         make @16                                            
+<0000000006700E08>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAZE                make @5                                             
+<00000000066EB498>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 m @1                                                
+<00000000047BEF40>  (From MAZE_ACCESS)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 _invariant @31         m = m:                       
+<00000000047BEF40>  (From MAZE_ACCESS)     Class invariant violated.     Fail
+-------------------------------------------------------------------------------
+ANY                 _invariant                                          
+<00000000047BEF40>  (From MAZE_ACCESS)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 default_create                                      
+<00000000047BEF40>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MODEL_FACADE    make                                                
+<00000000066EB438>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     user_create_interface_objects @1
+<00000000066DF958>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     create_interface_objects @28
+<00000000066DF958>  (From ETF_MAIN_WINDOW_IMP)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     default_create @1                                   
+<00000000066DF958>  (From EV_ANY)          Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             user_create_interface_objects @1
+<00000000066DD768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             make_and_launch @2                                  
+<00000000066DD768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @1                                             
+<00000000066DD5A8>  (From ETF_GUI_ROOT_INTERFACE)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @14                                            
+<00000000066DD5A8>  (From ETF_ROOT_INTERFACE)
+                                           Routine failure.              Rescue
+-------------------------------------------------------------------------------
+ROOT                root's creation                                     
+<00000000066DD5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+maze: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         item @3                attached active as a:        
+<0000000006949698>                         Assertion violated.           Fail
+-------------------------------------------------------------------------------
+LINKED_LIST         item @3                                             
+<0000000006949698>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+LINKED_LIST         i_th @5                                             
+<0000000006949698>  (From CHAIN)           Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAZE_DRAWER         make @16                                            
+<0000000006949578>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAZE                make @4                                             
+<0000000006949498>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 m @1                                                
+<00000000047BEF40>  (From MAZE_ACCESS)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 _invariant @31         m = m:                       
+<00000000047BEF40>  (From MAZE_ACCESS)     Class invariant violated.     Fail
+-------------------------------------------------------------------------------
+ANY                 _invariant                                          
+<00000000047BEF40>  (From MAZE_ACCESS)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 default_create                                      
+<00000000047BEF40>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MODEL_FACADE    make                                                
+<0000000006949438>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     user_create_interface_objects @1
+<000000000693D958>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     create_interface_objects @28
+<000000000693D958>  (From ETF_MAIN_WINDOW_IMP)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     default_create @1                                   
+<000000000693D958>  (From EV_ANY)          Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             user_create_interface_objects @1
+<000000000693B768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             make_and_launch @2                                  
+<000000000693B768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @1                                             
+<000000000693B5A8>  (From ETF_GUI_ROOT_INTERFACE)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @14                                            
+<000000000693B5A8>  (From ETF_ROOT_INTERFACE)
+
+maze: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         item @3                attached active as a:        
+<000000000687D7E8>                         Assertion violated.           Fail
+-------------------------------------------------------------------------------
+LINKED_LIST         item @3                                             
+<000000000687D7E8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+LINKED_LIST         i_th @5                                             
+<000000000687D7E8>  (From CHAIN)           Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAZE_DRAWER         make @16                                            
+<000000000687D628>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAZE                make @8                                             
+<000000000687D498>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 m @1                                                
+<00000000047BEF40>  (From MAZE_ACCESS)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 _invariant @31         m = m:                       
+<00000000047BEF40>  (From MAZE_ACCESS)     Class invariant violated.     Fail
+-------------------------------------------------------------------------------
+ANY                 _invariant                                          
+<00000000047BEF40>  (From MAZE_ACCESS)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 default_create                                      
+<00000000047BEF40>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MODEL_FACADE    make                                                
+<000000000687D438>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     user_create_interface_objects @1
+<0000000006871958>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     create_interface_objects @28
+<0000000006871958>  (From ETF_MAIN_WINDOW_IMP)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     default_create @1                                   
+<0000000006871958>  (From EV_ANY)          Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             user_create_interface_objects @1
+<000000000686F768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             make_and_launch @2                                  
+<000000000686F768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @1                                             
+<000000000686F5A8>  (From ETF_GUI_ROOT_INTERFACE)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @14                                            
+<000000000686F5A8>  (From ETF_ROOT_INTERFACE)
+                                           Routine failure.              Rescue
+-------------------------------------------------------------------------------
+ROOT                root's creation                                     
+<000000000686F5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+maze: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+LINKED_LIST         item @3                attached active as a:        
+<000000000688C048>                         Assertion violated.           Fail
+-------------------------------------------------------------------------------
+LINKED_LIST         item @3                                             
+<000000000688C048>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+LINKED_LIST         i_th @5                                             
+<000000000688C048>  (From CHAIN)           Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAZE_DRAWER         make @16                                            
+<000000000688B628>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAZE                make @8                                             
+<000000000688B498>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 m @1                                                
+<00000000047BEF40>  (From MAZE_ACCESS)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 _invariant @31         m = m:                       
+<00000000047BEF40>  (From MAZE_ACCESS)     Class invariant violated.     Fail
+-------------------------------------------------------------------------------
+ANY                 _invariant                                          
+<00000000047BEF40>  (From MAZE_ACCESS)     Routine failure.              Fail
+-------------------------------------------------------------------------------
+ANY                 default_create                                      
+<00000000047BEF40>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MODEL_FACADE    make                                                
+<000000000688B438>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     user_create_interface_objects @1
+<000000000687F958>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     create_interface_objects @28
+<000000000687F958>  (From ETF_MAIN_WINDOW_IMP)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     default_create @1                                   
+<000000000687F958>  (From EV_ANY)          Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             user_create_interface_objects @1
+<000000000687D768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             make_and_launch @2                                  
+<000000000687D768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @1                                             
+<000000000687D5A8>  (From ETF_GUI_ROOT_INTERFACE)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @14                                            
+<000000000687D5A8>  (From ETF_ROOT_INTERFACE)
+                                           Routine failure.              Rescue
+-------------------------------------------------------------------------------
+ROOT                root's creation                                     
+<000000000687D5A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+maze: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+MAZE_DRAWER         make @1                bidirectional_edges:         
+<000000000688BFD8>                         Precondition violated.        Fail
+-------------------------------------------------------------------------------
+MAZE                make @8                                             
+<0000000006811498>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+MAZE                reset @1                                            
+<0000000006811498>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MODEL_FACADE    make @6                                             
+<0000000006811438>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     user_create_interface_objects @1
+<0000000006805958>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     create_interface_objects @28
+<0000000006805958>  (From ETF_MAIN_WINDOW_IMP)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_MAIN_WINDOW     default_create @1                                   
+<0000000006805958>  (From EV_ANY)          Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             user_create_interface_objects @1
+<0000000006803768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ETF_GUI             make_and_launch @2                                  
+<0000000006803768>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @1                                             
+<00000000068035A8>  (From ETF_GUI_ROOT_INTERFACE)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ROOT                make @14                                            
+<00000000068035A8>  (From ETF_ROOT_INTERFACE)
+                                           Routine failure.              Rescue
+-------------------------------------------------------------------------------
+ROOT                root's creation                                     
+<00000000068035A8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+
+ec: system execution failed.
+Following is the set of recorded exceptions:
+
+******************************** Thread exception *****************************
+In thread           Root thread            0x0 (thread id)
+*******************************************************************************
+-------------------------------------------------------------------------------
+Class / Object      Routine                Nature of exception           Effect
+-------------------------------------------------------------------------------
+SELECTABLE_TEXT_PANEL
+                    ev_application @1      attached shared_environment.application as l_app:
+<00000184C4F654C8>  (From EV_SHARED_APPLICATION)
+                                           Assertion violated.           Fail
+-------------------------------------------------------------------------------
+SELECTABLE_TEXT_PANEL
+                    ev_application @1      
+<00000184C4F654C8>  (From EV_SHARED_APPLICATION)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+SELECTABLE_TEXT_PANEL
+                    user_initialization @1 
+<00000184C4F654C8>  (From KEYBOARD_SELECTABLE_TEXT_PANEL)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+SELECTABLE_TEXT_PANEL
+                    user_initialization @7 
+<00000184C4F654C8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+SELECTABLE_TEXT_PANEL
+                    initialize @30         
+<00000184C4F654C8>  (From TEXT_PANEL_IMP)  Routine failure.              Fail
+-------------------------------------------------------------------------------
+SELECTABLE_TEXT_PANEL
+                    default_create @4      
+<00000184C4F654C8>  (From TEXT_PANEL)      Routine failure.              Fail
+-------------------------------------------------------------------------------
+ES_EXCEPTION_DIALOG build_prompt_interface @7
+<00000184C4F5BA08>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ES_EXCEPTION_DIALOG build_dialog_interface @18
+<00000184C4F5BA08>  (From ES_PROMPT)       Routine failure.              Fail
+-------------------------------------------------------------------------------
+ES_EXCEPTION_DIALOG build_interface @7                                  
+<00000184C4F5BA08>  (From ES_DIALOG)       Routine failure.              Fail
+-------------------------------------------------------------------------------
+ES_EXCEPTION_DIALOG make @4                                             
+<00000184C4F5BA08>  (From ES_TOOL_FOUNDATIONS)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ES_EXCEPTION_DIALOG make @7                                             
+<00000184C4F5BA08>  (From ES_PROMPT)       Routine failure.              Fail
+-------------------------------------------------------------------------------
+ES_EXCEPTION_DIALOG make_standard @1                                    
+<00000184C4F5BA08>  (From ES_PROMPT)       Routine failure.              Fail
+-------------------------------------------------------------------------------
+ES_EXCEPTION_DIALOG make @1                                             
+<00000184C4F5BA08>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+ES_GRAPHIC          clean_exit @1                                       
+<00000184C5F57078>  (From ES_ABSTRACT_GRAPHIC)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+ES_GRAPHIC          handle_exception @3                                 
+<00000184C5F57078>  (From ES_ABSTRACT_GRAPHIC)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+EV_LITE_ACTION_SEQUENCE
+                    call @22               
+<00000184C5F57338>  (From ACTION_SEQUENCE) Routine failure.              Fail
+-------------------------------------------------------------------------------
+EV_LITE_ACTION_SEQUENCE
+                    call @3                
+<00000184C5F57338>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+EV_APPLICATION_IMP  on_exception_action @7                              
+<00000184C5F56D38>  (From EV_APPLICATION_I)
+                                           Routine failure.              Fail
+-------------------------------------------------------------------------------
+EV_APPLICATION_IMP  call_post_launch_actions @3
+<00000184C5F56D38>  (From EV_APPLICATION_I)
+                                           Resumption attempt failed.    Rescue
+-------------------------------------------------------------------------------
+EV_APPLICATION      internal_launch_application @1
+<00000184C5F57098>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+EV_APPLICATION      launch @4                                           
+<00000184C5F57098>                         Routine failure.              Rescue
+-------------------------------------------------------------------------------
+ES_GRAPHIC          make @4                                             
+<00000184C5F57078>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+EB_KERNEL           make @4                                             
+<00000184C5DFCBD8>                         Routine failure.              Fail
+-------------------------------------------------------------------------------
+EB_KERNEL           root's creation                                     
+<00000184C5DFCBD8>                         Routine failure.              Exit
+-------------------------------------------------------------------------------
+Catcall detected in {SPECIAL}.fill_with for arg#1: expected VERTEX [INTEGER_32] but got Void
+Catcall detected in {SPECIAL}.fill_with for arg#1: expected VERTEX [INTEGER_32] but got Void
+Catcall detected in {ARRAY2}.resize_with_default for arg#1: expected VERTEX [INTEGER_32] but got Void
+Catcall detected in {ARRAY2}.resize_with_default for arg#1: expected VERTEX [INTEGER_32] but got Void

@@ -1,0 +1,7 @@
+--test abort
+new_game(hard)
+abort 
+new_game(medium)
+abort
+new_game(easy)
+abort

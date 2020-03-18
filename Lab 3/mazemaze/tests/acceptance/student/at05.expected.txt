@@ -1,0 +1,2 @@
+Syntax Error: specification of command executions cannot be parsed
+Unknown identifier oninlife (Line 5, Column 6)

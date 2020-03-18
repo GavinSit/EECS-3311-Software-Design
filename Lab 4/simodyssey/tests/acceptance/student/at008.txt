@@ -1,0 +1,15 @@
+--testing the game
+land
+land
+abort
+test(40)
+land
+move(N)
+pass
+pass
+move(N)
+move(N)
+land
+land
+liftoff
+land

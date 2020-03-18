@@ -1,0 +1,5 @@
+--test full msg
+play
+abort
+play
+move(E)

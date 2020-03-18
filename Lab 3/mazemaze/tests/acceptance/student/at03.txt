@@ -1,0 +1,6 @@
+--try solving
+new_game(easy)
+solve
+new_game(medium)
+solve
+new_game(hard)

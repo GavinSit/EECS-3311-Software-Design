@@ -1,0 +1,16 @@
+--test error messages for not in game
+move(NE)
+move(E)
+land
+liftoff
+pass
+wormhole
+status
+play
+land
+liftoff
+move(E)
+move(E)
+move(E)
+move(E)
+

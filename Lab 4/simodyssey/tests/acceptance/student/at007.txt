@@ -1,0 +1,7 @@
+--test deaths this round output
+test(100)
+pass
+pass
+pass
+pass
+abort

@@ -1,0 +1,5 @@
+runrunrun
+pewpewpew
+new_game(sdf)
+new_game(medium)
+move(oninlife)

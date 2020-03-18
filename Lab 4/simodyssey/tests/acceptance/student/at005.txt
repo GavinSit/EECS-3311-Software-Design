@@ -1,0 +1,8 @@
+--test blackhole
+play
+move(SE)
+move(SE)
+play
+move(NW)
+move(NW)
+move(NW)

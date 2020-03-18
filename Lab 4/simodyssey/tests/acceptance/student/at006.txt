@@ -1,0 +1,5 @@
+--test planet dies message
+test(100)
+pass
+pass
+pass
