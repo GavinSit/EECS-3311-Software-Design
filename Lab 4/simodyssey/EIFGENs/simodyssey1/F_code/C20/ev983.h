@@ -1,0 +1,27 @@
+
+#ifndef _C20_ev983_
+#define _C20_ev983_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F25_8965(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern void F25_8966(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern void F25_8967(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32, EIF_INTEGER_32, EIF_INTEGER_32);
+extern void F25_8968(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F25_8969(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F25_8970(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F25_8971(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F25_8972(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F25_8973(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F25_8974(EIF_REFERENCE);
+extern void F25_8975(EIF_REFERENCE);
+extern void F25_8976(EIF_REFERENCE);
+extern void EIF_Minit983(void);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

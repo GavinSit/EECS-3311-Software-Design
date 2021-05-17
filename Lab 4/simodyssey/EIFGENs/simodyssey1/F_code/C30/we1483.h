@@ -1,0 +1,22 @@
+
+#ifndef _C30_we1483_
+#define _C30_we1483_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F1344_15943(EIF_REFERENCE, EIF_REFERENCE);
+extern EIF_REFERENCE F1344_15945(EIF_REFERENCE);
+static EIF_INTEGER_32 F1344_15946_body(EIF_REFERENCE);
+extern EIF_INTEGER_32 F1344_15946(EIF_REFERENCE);
+extern EIF_INTEGER_32 F1344_15947(EIF_REFERENCE);
+extern EIF_POINTER F1344_15949(EIF_REFERENCE, EIF_POINTER);
+extern void EIF_Minit1483(void);
+extern void F1296_15096(EIF_REFERENCE, EIF_POINTER);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

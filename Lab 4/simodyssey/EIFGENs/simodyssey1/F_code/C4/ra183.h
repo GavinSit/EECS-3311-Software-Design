@@ -1,0 +1,22 @@
+
+#ifndef _C4_ra183_
+#define _C4_ra183_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F1293_5162(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern EIF_INTEGER_32 F1293_5163(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern EIF_INTEGER_32 F1293_5164(EIF_REFERENCE, EIF_POINTER, EIF_INTEGER_32, EIF_INTEGER_32, EIF_POINTER);
+extern EIF_POINTER F1293_5170(EIF_REFERENCE, EIF_POINTER, EIF_INTEGER_32);
+extern void EIF_Minit183(void);
+extern void F1560_6659(EIF_REFERENCE);
+extern long O3548[];
+extern long O3644[];
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

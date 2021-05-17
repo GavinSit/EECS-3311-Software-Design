@@ -1,0 +1,40 @@
+
+#ifndef _C24_yy1172_
+#define _C24_yy1172_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F255_11745(EIF_REFERENCE, EIF_REFERENCE);
+extern void F255_11746(EIF_REFERENCE, EIF_REFERENCE);
+extern void F255_11757(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32, EIF_INTEGER_32);
+extern void F255_11758(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F255_11763(EIF_REFERENCE);
+extern void F255_11764(EIF_REFERENCE);
+extern void F255_11766(EIF_REFERENCE);
+extern EIF_REFERENCE F255_11768(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F255_11769(EIF_REFERENCE);
+static EIF_INTEGER_32 F255_11770_body(EIF_REFERENCE);
+extern EIF_INTEGER_32 F255_11770(EIF_REFERENCE);
+extern void EIF_Minit1172(void);
+extern void F1280_15026(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_INTEGER_32 F1280_15022(EIF_REFERENCE);
+extern void F1280_15024(EIF_REFERENCE, EIF_CHARACTER_8, EIF_INTEGER_32);
+extern void F1280_15019(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F1280_15030(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F1280_15028(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32, EIF_INTEGER_32);
+extern long O9536[];
+extern long O9525[];
+extern long O9526[];
+extern long O9527[];
+extern long O9528[];
+extern long O9529[];
+extern long O9530[];
+extern long O9531[];
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

@@ -1,0 +1,31 @@
+
+#ifndef _C23_we1137_
+#define _C23_we1137_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_BOOLEAN F214_11241(EIF_REFERENCE);
+extern EIF_POINTER F214_11242(EIF_REFERENCE);
+extern EIF_BOOLEAN F214_11243(EIF_REFERENCE);
+extern void F214_11244(EIF_REFERENCE, EIF_POINTER);
+extern void F214_11245(EIF_REFERENCE, EIF_BOOLEAN);
+extern void F214_11246(EIF_REFERENCE);
+extern void F214_11247(EIF_REFERENCE);
+extern void EIF_Minit1137(void);
+extern void F1206_3083(EIF_REFERENCE, EIF_BOOLEAN, EIF_INTEGER_32);
+extern EIF_REFERENCE F1206_3118(EIF_REFERENCE, EIF_BOOLEAN, EIF_INTEGER_32);
+extern EIF_POINTER F1_33(EIF_REFERENCE);
+extern void F1196_3083(EIF_REFERENCE, EIF_POINTER, EIF_INTEGER_32);
+extern EIF_REFERENCE F1196_3118(EIF_REFERENCE, EIF_POINTER, EIF_INTEGER_32);
+extern long O9023[];
+extern long O9024[];
+extern long O9025[];
+extern long O9026[];
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

@@ -1,0 +1,33 @@
+
+#ifndef _C2_ex63_
+#define _C2_ex63_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_REFERENCE F463_1382(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_BOOLEAN F463_1387(EIF_REFERENCE);
+extern EIF_REFERENCE F463_1389(EIF_REFERENCE);
+extern EIF_INTEGER_32 F463_1392(EIF_REFERENCE);
+extern EIF_REFERENCE F463_1393(EIF_REFERENCE);
+extern void F463_1400(EIF_REFERENCE, EIF_REFERENCE);
+extern void F463_1401(EIF_REFERENCE, EIF_REFERENCE);
+extern void EIF_Minit63(void);
+extern EIF_REFERENCE F424_1421(EIF_REFERENCE);
+extern EIF_REFERENCE F424_1423(EIF_REFERENCE);
+extern EIF_REFERENCE F1558_6566(EIF_REFERENCE);
+extern EIF_REFERENCE F424_1425(EIF_REFERENCE);
+extern void F424_1417(EIF_REFERENCE);
+extern EIF_REFERENCE F423_1381(EIF_REFERENCE);
+extern void F424_1432(EIF_REFERENCE, EIF_REFERENCE);
+extern char *(*R1144[])();
+extern char *(*R1309[])();
+extern char *(*R1314[])();
+extern char *(*R1134[])();
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

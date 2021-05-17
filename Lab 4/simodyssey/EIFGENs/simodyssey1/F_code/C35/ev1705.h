@@ -1,0 +1,29 @@
+
+#ifndef _C35_ev1705_
+#define _C35_ev1705_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F1712_19246(EIF_REFERENCE);
+extern EIF_REFERENCE F1712_19247(EIF_REFERENCE);
+extern EIF_BOOLEAN F1712_19248(EIF_REFERENCE);
+extern EIF_BOOLEAN F1712_19249(EIF_REFERENCE);
+extern EIF_BOOLEAN F1712_19250(EIF_REFERENCE);
+extern void F1712_19251(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1712_19252(EIF_REFERENCE);
+extern void F1712_19254(EIF_REFERENCE);
+extern void F1712_19256(EIF_REFERENCE);
+extern void F1712_19259(EIF_REFERENCE);
+extern void EIF_Minit1705(void);
+extern void F1696_18990(EIF_REFERENCE, EIF_BOOLEAN);
+extern void F1814_20378(EIF_REFERENCE);
+extern void F1696_18991(EIF_REFERENCE, EIF_BOOLEAN);
+extern EIF_REFERENCE F1_14(EIF_REFERENCE);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

@@ -1,0 +1,26 @@
+
+#ifndef _C39_ev1936_
+#define _C39_ev1936_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F1953_23572(EIF_REFERENCE);
+extern EIF_REFERENCE F1953_23577(EIF_REFERENCE);
+extern void F1953_23580(EIF_REFERENCE);
+extern void EIF_Minit1936(void);
+extern void F1696_18990(EIF_REFERENCE, EIF_BOOLEAN);
+extern void F1320_15566(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern void F1952_23490(EIF_REFERENCE);
+extern void F1307_15413(EIF_REFERENCE);
+extern void F1696_18991(EIF_REFERENCE, EIF_BOOLEAN);
+extern void F519_14209(EIF_REFERENCE);
+extern void F1603_17889(EIF_REFERENCE, EIF_REAL_32, EIF_REAL_32, EIF_REAL_32);
+extern void F1306_15254(EIF_REFERENCE);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

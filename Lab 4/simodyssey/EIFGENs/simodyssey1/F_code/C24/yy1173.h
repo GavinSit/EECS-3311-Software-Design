@@ -1,0 +1,30 @@
+
+#ifndef _C24_yy1173_
+#define _C24_yy1173_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F256_11773(EIF_REFERENCE, EIF_REFERENCE);
+extern void F256_11774(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32);
+extern void F256_11778(EIF_REFERENCE, EIF_REFERENCE);
+extern void F256_11779(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32);
+extern void F256_11782(EIF_REFERENCE);
+extern void EIF_Minit1173(void);
+extern void F1280_15030(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_REFERENCE F255_11768(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F255_11766(EIF_REFERENCE);
+extern void F1280_15024(EIF_REFERENCE, EIF_CHARACTER_8, EIF_INTEGER_32);
+extern EIF_INTEGER_32 F1280_15027(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern void F255_11764(EIF_REFERENCE);
+extern EIF_INTEGER_32 F255_11770(EIF_REFERENCE);
+extern char *(*R10519[])();
+extern char *(*R10525[])();
+extern char *(*R10528[])();
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

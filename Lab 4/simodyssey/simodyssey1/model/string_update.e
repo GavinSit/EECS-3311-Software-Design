@@ -72,13 +72,10 @@ feature --queries
 		end
 
 feature --command
-
 	is_ingame (b: BOOLEAN)
 			--in game or not change status
 		do
 			ingame := b
---		ensure
---			ingame_changed_state: ingame ~ not (old ingame)
 		end
 	set_mode (m: STRING)
 			--set which game mode it is

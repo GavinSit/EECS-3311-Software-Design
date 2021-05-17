@@ -1,0 +1,43 @@
+
+#ifndef _C26_ev1297_
+#define _C26_ev1297_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_REFERENCE F413_13359(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13362(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13364(EIF_REFERENCE);
+static EIF_REFERENCE F413_13365_body(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13365(EIF_REFERENCE);
+static EIF_REFERENCE F413_13367_body(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13367(EIF_REFERENCE);
+static EIF_REFERENCE F413_13369_body(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13369(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13372(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13376(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13378(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13380(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13382(EIF_REFERENCE);
+extern EIF_REFERENCE F413_13384(EIF_REFERENCE);
+extern void EIF_Minit1297(void);
+extern void F976_4196(EIF_REFERENCE);
+extern char *(*R11047[])();
+extern long O11071[];
+extern long O11046[];
+extern long O11049[];
+extern long O11051[];
+extern long O11053[];
+extern long O11055[];
+extern long O11059[];
+extern long O11063[];
+extern long O11065[];
+extern long O11067[];
+extern long O11069[];
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

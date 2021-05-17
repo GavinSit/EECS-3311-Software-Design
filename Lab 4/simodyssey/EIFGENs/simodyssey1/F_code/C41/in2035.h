@@ -1,0 +1,51 @@
+
+#ifndef _C41_in2035_
+#define _C41_in2035_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F970_4167(EIF_REFERENCE);
+extern void F970_4172(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F970_4173(EIF_REFERENCE, EIF_REFERENCE);
+extern void F970_4174(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F970_4176(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern void F970_4177(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F970_4178(EIF_REFERENCE);
+extern void F970_4182(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F970_4184(EIF_REFERENCE);
+extern void F970_4187(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern void F970_4188(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern void EIF_Minit2035(void);
+extern EIF_INTEGER_32 F957_4095(EIF_REFERENCE);
+extern void F957_4127(EIF_REFERENCE);
+extern void F957_4117(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F957_4115(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_INTEGER_32 F957_4094(EIF_REFERENCE);
+extern void F957_4121(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_INTEGER_32 F957_4079(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_REFERENCE F1_14(EIF_REFERENCE);
+extern void F957_4131(EIF_REFERENCE);
+extern void F1200_3114(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F957_4114(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F957_4073(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_REFERENCE F957_4077(EIF_REFERENCE);
+extern EIF_INTEGER_32 F957_4078(EIF_REFERENCE);
+extern void F957_4112(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern char *(*R2163[])();
+extern char *(*R3145[])();
+extern char *(*R3146[])();
+extern char *(*R3147[])();
+extern char *(*R3103[])();
+extern char *(*R2269[])();
+extern char *(*R3104[])();
+extern long O2212[];
+extern long O3107[];
+extern long O3095[];
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

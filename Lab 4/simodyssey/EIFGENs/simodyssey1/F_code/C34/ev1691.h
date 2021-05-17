@@ -1,0 +1,24 @@
+
+#ifndef _C34_ev1691_
+#define _C34_ev1691_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F1698_19007(EIF_REFERENCE);
+extern void F1698_19013(EIF_REFERENCE, EIF_REFERENCE);
+extern EIF_BOOLEAN F1698_19014(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1698_19015(EIF_REFERENCE);
+extern void EIF_Minit1691(void);
+extern void F1696_18991(EIF_REFERENCE, EIF_BOOLEAN);
+extern void F1696_18990(EIF_REFERENCE, EIF_BOOLEAN);
+extern void F1696_18992(EIF_REFERENCE, EIF_BOOLEAN);
+extern EIF_BOOLEAN F1322_15609(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1322_15602(EIF_REFERENCE);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

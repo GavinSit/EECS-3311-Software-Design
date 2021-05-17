@@ -1,0 +1,29 @@
+
+#ifndef _C3_re130_
+#define _C3_re130_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_BOOLEAN F507_1974(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern EIF_REFERENCE F507_1979(EIF_REFERENCE, EIF_INTEGER_32, EIF_REFERENCE);
+extern void eif_scr1 (call_data * a);
+extern void eif_scr4 (call_data * a);
+extern void eif_scr3 (call_data * a);
+extern EIF_BOOLEAN F507_1983(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_BOOLEAN F507_1984(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_REFERENCE F507_2003(EIF_REFERENCE, EIF_INTEGER_32);
+extern void EIF_Minit130(void);
+extern void F1476_5341(EIF_REFERENCE);
+extern EIF_INTEGER_32 F1476_5346(EIF_REFERENCE);
+extern EIF_BOOLEAN F1476_5345(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_REFERENCE F1476_5317(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_BOOLEAN F1476_5339(EIF_REFERENCE);
+extern void F1476_5350(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

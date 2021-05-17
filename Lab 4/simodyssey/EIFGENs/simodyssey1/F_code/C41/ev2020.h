@@ -1,0 +1,46 @@
+
+#ifndef _C41_ev2020_
+#define _C41_ev2020_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_REFERENCE F1716_19387(EIF_REFERENCE);
+extern EIF_REFERENCE F1716_19388(EIF_REFERENCE);
+extern EIF_REFERENCE F1716_19390(EIF_REFERENCE);
+extern EIF_BOOLEAN F1716_19393(EIF_REFERENCE);
+extern EIF_INTEGER_32 F1716_19394(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_BOOLEAN F1716_19399(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1716_19400(EIF_REFERENCE);
+extern void F1716_19401(EIF_REFERENCE);
+extern void F1716_19402(EIF_REFERENCE);
+extern void F1716_19403(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F1716_19404(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1716_19406(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1716_19407(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1716_19408(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1716_19411(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1716_19412(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32);
+extern void F1716_19415(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1716_19416(EIF_REFERENCE);
+extern void F1716_19419(EIF_REFERENCE);
+extern void EIF_Minit2020(void);
+extern void F541_14264(EIF_REFERENCE, EIF_REFERENCE, EIF_BOOLEAN, EIF_BOOLEAN);
+extern char *(*R2308[])();
+extern char *(*R16255[])();
+extern char *(*R16256[])();
+extern char *(*R16227[])();
+extern char *(*R2291[])();
+extern char *(*R2292[])();
+extern char *(*R16232[])();
+extern char *(*R2258[])();
+extern long O16224[];
+extern EIF_TYPE_INDEX Y16257[];
+extern EIF_TYPE_INDEX *Y16257_gen_type [];
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

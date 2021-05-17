@@ -1,0 +1,35 @@
+
+#ifndef _C37_kl1827_
+#define _C37_kl1827_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_BOOLEAN F1844_20866(EIF_REFERENCE);
+extern void F1844_20867(EIF_REFERENCE);
+extern EIF_INTEGER_32 F1844_20870(EIF_REFERENCE, EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern EIF_REFERENCE F1844_20877(EIF_REFERENCE);
+static EIF_REFERENCE F1844_20878_body(EIF_REFERENCE);
+extern EIF_REFERENCE F1844_20878(EIF_REFERENCE);
+extern void EIF_Minit1827(void);
+extern EIF_BOOLEAN F65_9687(EIF_REFERENCE, EIF_REFERENCE, EIF_REFERENCE);
+extern void F1559_6605(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F1560_6659(EIF_REFERENCE);
+extern EIF_REFERENCE F1261_14810(EIF_REFERENCE);
+extern EIF_BOOLEAN F1291_4935(EIF_REFERENCE);
+extern void F1291_5041(EIF_REFERENCE);
+extern void F1561_6779(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F1280_15019(EIF_REFERENCE, EIF_INTEGER_32);
+extern char *(*R2556[])();
+extern char *(*R17430[])();
+extern char *(*R2255[])();
+extern long O17428[];
+extern long O17438[];
+extern long O17440[];
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

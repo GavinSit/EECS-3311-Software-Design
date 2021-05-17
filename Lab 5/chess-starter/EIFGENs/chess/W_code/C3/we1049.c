@@ -1,0 +1,262 @@
+/*
+ * Code for class WEL_TCS_CONSTANTS
+ */
+
+#include "eif_eiffel.h"
+#include "../E1/estructure.h"
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_TYPED_VALUE F1049_10032(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10033(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10034(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10035(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10036(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10037(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10038(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10039(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10040(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10041(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10042(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10043(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10044(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10045(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10046(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10047(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10048(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10049(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10050(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10051(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10052(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1049_10053(EIF_REFERENCE);
+extern void EIF_Minit1049(void);
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+/* {WEL_TCS_CONSTANTS}.tcs_bottom */
+EIF_TYPED_VALUE F1049_10032 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 2L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_buttons */
+EIF_TYPED_VALUE F1049_10033 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 256L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_fixedwidth */
+EIF_TYPED_VALUE F1049_10034 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1024L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_flatbuttons */
+EIF_TYPED_VALUE F1049_10035 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 8L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_focusnever */
+EIF_TYPED_VALUE F1049_10036 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 32768L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_focusonbuttondown */
+EIF_TYPED_VALUE F1049_10037 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 4096L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_forceiconleft */
+EIF_TYPED_VALUE F1049_10038 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 16L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_forcelabelleft */
+EIF_TYPED_VALUE F1049_10039 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 32L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_hottrack */
+EIF_TYPED_VALUE F1049_10040 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 64L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_multiline */
+EIF_TYPED_VALUE F1049_10041 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 512L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_multiselect */
+EIF_TYPED_VALUE F1049_10042 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 4L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_ownerdrawfixed */
+EIF_TYPED_VALUE F1049_10043 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 8192L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_raggedright */
+EIF_TYPED_VALUE F1049_10044 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 2048L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_right */
+EIF_TYPED_VALUE F1049_10045 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 2L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_rightjustify */
+EIF_TYPED_VALUE F1049_10046 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_scrollopposite */
+EIF_TYPED_VALUE F1049_10047 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_singleline */
+EIF_TYPED_VALUE F1049_10048 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_tabs */
+EIF_TYPED_VALUE F1049_10049 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_tooltips */
+EIF_TYPED_VALUE F1049_10050 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 16384L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_vertical */
+EIF_TYPED_VALUE F1049_10051 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 128L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_ex_flatseparators */
+EIF_TYPED_VALUE F1049_10052 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1L);
+	return r;
+}
+
+/* {WEL_TCS_CONSTANTS}.tcs_ex_registerdrop */
+EIF_TYPED_VALUE F1049_10053 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 2L);
+	return r;
+}
+
+void EIF_Minit1049 (void)
+{
+	GTCX
+}
+
+
+#ifdef __cplusplus
+}
+#endif

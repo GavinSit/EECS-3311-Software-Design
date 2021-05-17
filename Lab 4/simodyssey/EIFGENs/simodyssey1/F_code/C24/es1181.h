@@ -1,0 +1,34 @@
+
+#ifndef _C24_es1181_
+#define _C24_es1181_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F264_11865(EIF_REFERENCE, EIF_REFERENCE, EIF_REFERENCE, EIF_REFERENCE, EIF_BOOLEAN);
+extern void F264_11866(EIF_REFERENCE);
+extern void F264_11867(EIF_REFERENCE);
+extern void F264_11868(EIF_REFERENCE);
+extern void EIF_Minit1181(void);
+extern void F263_11852(EIF_REFERENCE, EIF_REFERENCE);
+extern void F1292_5179(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_REFERENCE F912_3522(EIF_REFERENCE);
+extern EIF_REFERENCE F263_11855(EIF_REFERENCE);
+extern void F912_3534(EIF_REFERENCE);
+extern EIF_REFERENCE F1078_4352(EIF_REFERENCE);
+extern void F263_11837(EIF_REFERENCE, EIF_REFERENCE, EIF_REFERENCE, EIF_BOOLEAN);
+extern void F1078_4355(EIF_REFERENCE);
+extern EIF_BOOLEAN F1078_4353(EIF_REFERENCE);
+extern void F912_3536(EIF_REFERENCE);
+extern void F263_11839(EIF_REFERENCE, EIF_REFERENCE);
+extern char *(*R3563[])();
+extern char *(*R11158[])();
+extern char *(*R2258[])();
+extern long O11161[];
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

@@ -1,0 +1,32 @@
+
+#ifndef _C27_et1344_
+#define _C27_et1344_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F567_14313(EIF_REFERENCE);
+extern void EIF_Minit1344(void);
+extern void F566_14270(EIF_REFERENCE);
+extern void F267_11877(EIF_REFERENCE);
+extern void F568_14315(EIF_REFERENCE);
+extern void F125_145(EIF_REFERENCE, EIF_REFERENCE);
+extern EIF_INTEGER_32 F463_1392(EIF_REFERENCE);
+extern void F566_14269(EIF_REFERENCE);
+extern EIF_INTEGER_32 F568_14314(EIF_REFERENCE);
+extern void F265_11871(EIF_REFERENCE);
+extern void F265_11874(EIF_REFERENCE);
+extern EIF_BOOLEAN F463_1387(EIF_REFERENCE);
+extern void F267_11875(EIF_REFERENCE);
+extern EIF_INTEGER_32 F565_2432(EIF_REFERENCE);
+extern void F1_27(EIF_REFERENCE, EIF_REFERENCE);
+extern EIF_REFERENCE F1_24(EIF_REFERENCE);
+extern EIF_REFERENCE F463_1382(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F265_11870(EIF_REFERENCE);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

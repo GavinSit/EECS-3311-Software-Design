@@ -1,0 +1,27 @@
+
+#ifndef _C28_kl1384_
+#define _C28_kl1384_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F1164_14573(EIF_REFERENCE);
+extern EIF_REFERENCE F1164_14575(EIF_REFERENCE);
+extern void F1164_14577(EIF_REFERENCE, EIF_CHARACTER_8);
+extern void F1164_14578(EIF_REFERENCE, EIF_REFERENCE);
+static EIF_REFERENCE F1164_14580_body(EIF_REFERENCE);
+extern EIF_REFERENCE F1164_14580(EIF_REFERENCE);
+extern void EIF_Minit1384(void);
+extern EIF_REFERENCE F1266_14945(EIF_REFERENCE, EIF_REFERENCE);
+extern EIF_REFERENCE F1156_14541(EIF_REFERENCE);
+extern EIF_REFERENCE F125_118(EIF_REFERENCE);
+extern EIF_REFERENCE F1_24(EIF_REFERENCE);
+extern char *(*R3562[])();
+extern char *(*R3564[])();
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

@@ -445,7 +445,7 @@ feature --game commands
 			--liftoff from planet
 		do
 			explorer.set_landed (false)
-			
+
 			galaxy_update
 		end
 

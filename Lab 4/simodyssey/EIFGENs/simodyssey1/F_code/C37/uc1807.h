@@ -1,0 +1,20 @@
+
+#ifndef _C37_uc1807_
+#define _C37_uc1807_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_INTEGER_32 F1824_20467(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_INTEGER_32 F1824_20468(EIF_REFERENCE, EIF_INTEGER_32);
+extern void EIF_Minit1807(void);
+extern EIF_REFERENCE F1823_20465(EIF_REFERENCE);
+extern EIF_INTEGER_32 F925_3191(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_REFERENCE F1822_20441(EIF_REFERENCE);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

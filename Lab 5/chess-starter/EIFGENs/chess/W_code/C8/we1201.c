@@ -1,0 +1,302 @@
+/*
+ * Code for class WEL_MF_CONSTANTS
+ */
+
+#include "eif_eiffel.h"
+#include "../E1/estructure.h"
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_TYPED_VALUE F1201_12244(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12245(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12246(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12247(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12248(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12249(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12250(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12251(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12252(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12253(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12254(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12255(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12256(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12257(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12258(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12259(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12260(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12261(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12262(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12263(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12264(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12265(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12266(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12267(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12268(EIF_REFERENCE);
+extern EIF_TYPED_VALUE F1201_12269(EIF_REFERENCE);
+extern void EIF_Minit1201(void);
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+
+#ifdef __cplusplus
+}
+#endif
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+/* {WEL_MF_CONSTANTS}.mf_insert */
+EIF_TYPED_VALUE F1201_12244 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_change */
+EIF_TYPED_VALUE F1201_12245 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 128L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_append */
+EIF_TYPED_VALUE F1201_12246 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 256L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_delete */
+EIF_TYPED_VALUE F1201_12247 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 512L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_remove */
+EIF_TYPED_VALUE F1201_12248 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 4096L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_bycommand */
+EIF_TYPED_VALUE F1201_12249 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_byposition */
+EIF_TYPED_VALUE F1201_12250 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1024L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_separator */
+EIF_TYPED_VALUE F1201_12251 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 2048L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_enabled */
+EIF_TYPED_VALUE F1201_12252 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_grayed */
+EIF_TYPED_VALUE F1201_12253 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 1L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_disabled */
+EIF_TYPED_VALUE F1201_12254 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 2L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_unchecked */
+EIF_TYPED_VALUE F1201_12255 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_checked */
+EIF_TYPED_VALUE F1201_12256 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 8L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_usecheckbitmaps */
+EIF_TYPED_VALUE F1201_12257 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 512L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_string */
+EIF_TYPED_VALUE F1201_12258 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_bitmap */
+EIF_TYPED_VALUE F1201_12259 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 4L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_ownerdraw */
+EIF_TYPED_VALUE F1201_12260 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 256L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_popup */
+EIF_TYPED_VALUE F1201_12261 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 16L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_menubarbreak */
+EIF_TYPED_VALUE F1201_12262 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 32L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_menubreak */
+EIF_TYPED_VALUE F1201_12263 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 64L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_unhilite */
+EIF_TYPED_VALUE F1201_12264 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 0L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_hilite */
+EIF_TYPED_VALUE F1201_12265 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 128L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_sysmenu */
+EIF_TYPED_VALUE F1201_12266 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 8192L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_help */
+EIF_TYPED_VALUE F1201_12267 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 16384L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_mouseselect */
+EIF_TYPED_VALUE F1201_12268 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 32768L);
+	return r;
+}
+
+/* {WEL_MF_CONSTANTS}.mf_end */
+EIF_TYPED_VALUE F1201_12269 (EIF_REFERENCE Current)
+{
+	EIF_TYPED_VALUE r;
+	r.type = SK_INT32;
+	r.it_i4 = (EIF_INTEGER_32) ((EIF_INTEGER_32) 128L);
+	return r;
+}
+
+void EIF_Minit1201 (void)
+{
+	GTCX
+}
+
+
+#ifdef __cplusplus
+}
+#endif

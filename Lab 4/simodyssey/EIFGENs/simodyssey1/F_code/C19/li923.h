@@ -1,0 +1,26 @@
+
+#ifndef _C19_li923_
+#define _C19_li923_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_BOOLEAN F896_3331(EIF_REFERENCE, EIF_REFERENCE);
+extern EIF_BOOLEAN F896_3332(EIF_REFERENCE);
+extern EIF_BOOLEAN F896_3333(EIF_REFERENCE);
+extern void EIF_Minit923(void);
+extern void F965_4104(EIF_REFERENCE);
+extern EIF_INTEGER_32 F965_4094(EIF_REFERENCE);
+extern void F965_4109(EIF_REFERENCE, EIF_REFERENCE);
+extern void F965_4106(EIF_REFERENCE);
+extern EIF_REFERENCE F965_4084(EIF_REFERENCE);
+extern EIF_BOOLEAN F737_2537(EIF_REFERENCE);
+extern EIF_CHARACTER_32 F965_4078(EIF_REFERENCE);
+extern long O2212[];
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

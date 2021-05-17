@@ -1,0 +1,21 @@
+
+#ifndef _C25_ti1236_
+#define _C25_ti1236_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_INTEGER_32 F327_12857(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+extern EIF_INTEGER_32 F327_12858(EIF_REFERENCE, EIF_INTEGER_32, EIF_INTEGER_32);
+static EIF_REFERENCE F327_12859_body(EIF_REFERENCE);
+extern EIF_REFERENCE F327_12859(EIF_REFERENCE);
+extern EIF_REFERENCE F327_12860(EIF_REFERENCE);
+extern void EIF_Minit1236(void);
+extern EIF_REFERENCE F206_10855(EIF_REFERENCE);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

@@ -1,0 +1,48 @@
+
+#ifndef _C17_ch809_
+#define _C17_ch809_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern EIF_BOOLEAN F864_3255(EIF_REFERENCE);
+extern EIF_BOOLEAN F864_3256(EIF_REFERENCE);
+extern EIF_BOOLEAN F864_3257(EIF_REFERENCE, EIF_BOOLEAN);
+extern EIF_INTEGER_32 F864_3258(EIF_REFERENCE, EIF_BOOLEAN, EIF_INTEGER_32);
+extern EIF_BOOLEAN F864_3259(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_BOOLEAN F864_3260(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_INTEGER_32 F864_3262(EIF_REFERENCE);
+extern void F864_3264(EIF_REFERENCE);
+extern EIF_BOOLEAN F864_3267(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_BOOLEAN F864_3269(EIF_REFERENCE);
+extern EIF_BOOLEAN F864_3270(EIF_REFERENCE);
+extern EIF_BOOLEAN F864_3271(EIF_REFERENCE, EIF_INTEGER_32);
+extern void F864_3274(EIF_REFERENCE, EIF_REFERENCE);
+extern void F864_3275(EIF_REFERENCE, EIF_REFERENCE);
+extern void EIF_Minit809(void);
+extern EIF_BOOLEAN F618_2608(EIF_REFERENCE);
+extern EIF_BOOLEAN F879_3316(EIF_REFERENCE);
+extern EIF_BOOLEAN F749_2537(EIF_REFERENCE);
+extern EIF_BOOLEAN F618_2602(EIF_REFERENCE, EIF_BOOLEAN);
+extern EIF_INTEGER_32 F618_2603(EIF_REFERENCE, EIF_BOOLEAN, EIF_INTEGER_32);
+extern EIF_REFERENCE F1_14(EIF_REFERENCE);
+extern char *(*R2302[])();
+extern char *(*R2307[])();
+extern char *(*R2308[])();
+extern char *(*R2679[])();
+extern char *(*R2290[])();
+extern char *(*R2291[])();
+extern char *(*R2292[])();
+extern char *(*R2258[])();
+extern char *(*R2216[])();
+extern char *(*R2264[])();
+extern char *(*R2222[])();
+extern char *(*R2266[])();
+extern char *(*R2269[])();
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

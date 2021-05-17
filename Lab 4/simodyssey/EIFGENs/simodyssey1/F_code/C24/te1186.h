@@ -1,0 +1,28 @@
+
+#ifndef _C24_te1186_
+#define _C24_te1186_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern void F270_2(EIF_REFERENCE, EIF_REFERENCE);
+extern void F270_11932(EIF_REFERENCE);
+extern EIF_BOOLEAN F270_11934(EIF_REFERENCE);
+extern EIF_BOOLEAN F270_11935(EIF_REFERENCE);
+extern void EIF_Minit1186(void);
+extern void F269_11905(EIF_REFERENCE, EIF_REFERENCE);
+extern EIF_REFERENCE _A1186_79();
+extern void F269_11910(EIF_REFERENCE, EIF_REFERENCE);
+extern EIF_BOOLEAN F270_11935(EIF_REFERENCE);
+extern EIF_REFERENCE _A1186_78();
+extern EIF_REFERENCE __A1186_79();
+extern EIF_REFERENCE __A1186_78();
+extern EIF_REFERENCE F104_10107(EIF_REFERENCE, EIF_INTEGER_32);
+extern EIF_BOOLEAN F270_11934(EIF_REFERENCE);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

@@ -1,0 +1,24 @@
+
+#ifndef _C23_da1129_
+#define _C23_da1129_
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+static EIF_REFERENCE F206_10849_body(EIF_REFERENCE);
+extern EIF_REFERENCE F206_10849(EIF_REFERENCE);
+static EIF_REFERENCE F206_10850_body(EIF_REFERENCE);
+extern EIF_REFERENCE F206_10850(EIF_REFERENCE);
+extern EIF_REFERENCE F206_10853(EIF_REFERENCE);
+extern EIF_REFERENCE F206_10854(EIF_REFERENCE);
+extern EIF_REFERENCE F206_10855(EIF_REFERENCE);
+extern void EIF_Minit1129(void);
+extern void F575_2465(EIF_REFERENCE);
+extern EIF_REFERENCE F1194_3091(EIF_REFERENCE);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif
